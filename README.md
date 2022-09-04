@@ -8,3 +8,5 @@
 teldiego/teldiego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ # Olár
+Seja bem vindo ao meu perfil, estou aprendendo *programação* , gostaria de aprender mais sobre códigos.
