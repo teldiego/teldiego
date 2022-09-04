@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  **Diego**
 - 👀 I’m interested in trabalhar e aprender mais sobre programação.
-- 🌱 I’m currently learning tecnologo de __análise e desenvolvimento de sistemas__ e procrando para fazer boodcamp.
-- 💞️ I’m looking to collaborate on para o crescimento e aprendizado  de novos programdores.
+- 🌱 I’m currently learning tecnologo de __análises e desenvolvimento de sistemas__ e procurando fazer *boodcamp*.
+- 💞️ I’m looking to collaborate on para o crescimento e aprendizado  de novos programadores.
 - 📫 How to reach me  por meio dos links que deixari aqui
 
 <!---
